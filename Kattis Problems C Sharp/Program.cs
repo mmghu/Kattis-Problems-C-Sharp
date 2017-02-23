@@ -10,6 +10,7 @@ namespace Kattis_Problems_C_Sharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
